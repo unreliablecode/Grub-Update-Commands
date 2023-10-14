@@ -1,7 +1,7 @@
 # Grub-Update-Commands
 Linux grub update commands Debian, CentOS, RHEL, Fedora
 
-Debian & Debian Family's (Ubuntu etc)
+Debian & Debian Family's (Ubuntu, Kali, Lubuntu, Xubuntu etc)
 ```
 sudo update-grub
 ```
